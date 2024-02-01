@@ -1,6 +1,6 @@
 import List from "./List.js";
 
-const url = "http://localhost:7070/films/new";
+const url = "https://loading-styling-backend-0n6y.onrender.com/films/new";
 
 const container = document.querySelector(".page");
 
